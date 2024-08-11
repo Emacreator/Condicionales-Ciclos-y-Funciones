@@ -50,13 +50,13 @@
 
 //5 - Crear una función que reciba una palabra y un número por parámetro e imprima por consola  esa palabra la cantidad correspondiente al número indicado.
 
-const imprimirLetrayNumero = (num) => {
-  for (let i = 0; i < num; i++) {
-    console.log("Texto a Imprimir");
-  }
-};
+//const imprimirLetrayNumero = (num) => {
+//for (let i = 0; i < num; i++) {
+//console.log("Texto a Imprimir");
+//}
+//};
 
-imprimirLetrayNumero(20);
+//imprimirLetrayNumero(20);
 
 //6 - Crear una función que reciba un array por parámetro e imprima por consola todos los valores de ese array.
 
